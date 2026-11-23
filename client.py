@@ -1,7 +1,7 @@
 import requests
 import time
 
-URL = "http://IP_TWOJEGO_KOMPUTERA:8000/odbierz"
+URL = "http://10.1.1.246:8000/odbierz"
 
 while True:
     payload = {
